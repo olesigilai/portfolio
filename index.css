@@ -25,6 +25,10 @@ body {
   padding-right: 5rem;
   color: white;
 }
+
+.nav a:hover{
+color: blue;
+}
 a:link {
   text-decoration: none;
 }
