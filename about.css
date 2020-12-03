@@ -58,6 +58,7 @@ background-color: grey;
     border-collapse: collapse;
     text-align: center;
     width: 100%;
+    /* padding: 10%; */
     padding-left: 30%;
 
 }
