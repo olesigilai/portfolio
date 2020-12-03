@@ -1,10 +1,8 @@
+
 h1{
-    /* background-color: grey; */
     color: white;
-    font-family: serif 'Times New Roman', Times, serif;
-    font-size: 36px;
     text-align: center;
-    width: 100%;
+
 }
 .nav {
     background-color: grey;
@@ -13,7 +11,7 @@ h1{
     position: fixed;
     padding: 13px;
     font-size: 12px;
-    margin: -1rem;
+    margin: -1.4rem;
     float: center;
     color: white;
     font-weight: bold;
@@ -36,10 +34,7 @@ h1{
     text-decoration: none;
   }
   
-  h1 {
-    text-align: center;
-    color: white;
-  }
+
 body{
     background-image: url("images/4.jpg");
     background-repeat: no-repeat;
@@ -47,14 +42,30 @@ body{
     color: white;
 
 }
-.body{
-    text-align: center;
-    font-family: serif 'Times New Roman', Times, serif;
-    font-size: 20px;
-    font-weight: bold;
+.one{
     background-color: grey;
-    
+    text-align: center;
+    font-size: 17px;
+    font-weight: bold;
+
 }
+.two{
+text-align: center;
+font-weight: bold;
+background-color: grey;
+}
+.table{
+    border-collapse: collapse;
+    text-align: center;
+    width: 100%;
+    padding-left: 30%;
+
+}
+td, th {
+    border: 1px solid grey;
+    text-align: left;
+    padding: 8px;
+  }
 footer {
     background-color: grey;
     position: fixed;
