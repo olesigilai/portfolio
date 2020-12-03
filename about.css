@@ -60,6 +60,7 @@ background-color: grey;
     width: 100%;
     /* padding: 10%; */
     padding-left: 30%;
+    background-color: none;
 
 }
 td, th {
