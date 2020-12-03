@@ -3,7 +3,7 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
 }
-nav {
+.nav {
   background-color: grey;
   text-align: right;
   width: 100%;
@@ -15,11 +15,11 @@ nav {
   color: white;
   font-weight: bold;
 }
-nav a {
+.nav a {
   display: inline;
   font-size: 20px;
   padding: 10px;
-  float: right;
+  /* float: right; */
   text-decoration: none;
 
   padding-right: 5rem;
