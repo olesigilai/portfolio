@@ -1,96 +1,80 @@
-
-h1{
-    color: white;
-    text-align: center;
-
+h1 {
+  color: white;
+  text-align: center;
 }
 .nav {
-    background-color: grey;
-    text-align: right;
-    width: 100%;
-    position: fixed;
-    padding: 13px;
-    font-size: 12px;
-    margin: -1.4rem;
-    float: center;
-    color: white;
-    font-weight: bold;
-  }
-  .nav a {
-    display: inline;
-    font-size: 20px;
-    padding: 10px;
-    /* float: right; */
-    text-decoration: none;
-  
-    padding-right: 5rem;
-    color: white;
-  }
-  
-  .nav a:hover{
+  background-color: grey;
+  text-align: right;
+  width: 100%;
+  position: fixed;
+  padding: 13px;
+  font-size: 12px;
+  margin: -1.4rem;
+  float: center;
+  color: white;
+  font-weight: bold;
+}
+.nav a {
+  display: inline;
+  font-size: 20px;
+  padding: 10px;
+  text-decoration: none;
+  padding-right: 5rem;
+  color: white;
+}
+
+.nav a:hover {
   color: blue;
-  }
-  a:link {
-    text-decoration: none;
-  }
-  
-
-body{
-    background-image: url("images/4.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    color: white;
-    overflow-x: hidden;
-
 }
-.one{
-    background-color: grey;
-    text-align: center;
-    font-size: 17px;
-    font-weight: bold;
-    
-   
-
+a:link {
+  text-decoration: none;
 }
-.two{
-text-align: center;
-font-weight: bold;
-background-color: grey;
-
+body {
+  background-image: url("images/4.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  overflow-x: hidden;
 }
-.hobbies{
-    text-align: left;
-  
+.one {
+  background-color: grey;
+  text-align: center;
+  font-size: 17px;
+  font-weight: bold;
 }
-#skills{
+.two {
+  text-align: center;
+  font-weight: bold;
+  background-color: grey;
+}
+.hobbies {
+  text-align: left;
+}
+#skills {
   text-align: left;
   float: right;
-  
-  
 }
-.table{
-    border-collapse: collapse;
-    text-align: center;
-    width: 100%;
-    /* padding: 10%; */
-    padding-left: 30%;
-    background-color: none;
-
+.table {
+  border-collapse: collapse;
+  text-align: center;
+  width: 100%;
+  padding-left: 30%;
+  background-color: none;
 }
-td, th {
-    border: 1px solid grey;
-    text-align: left;
-    padding: 8px;
-  }
+td,th {
+  border: 1px solid grey;
+  text-align: left;
+  padding: 8px;
+}
 footer {
-    background-color: grey;
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    right: 0;
-    width: 100%;
-    text-align: center;
-    color: white;
-    padding-top: 10px;
-    font-weight: bold;
-  }
+  background-color: grey;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  text-align: center;
+  color: white;
+  padding-top: 10px;
+  font-weight: bold;
+}

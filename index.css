@@ -19,15 +19,13 @@ body {
   display: inline;
   font-size: 20px;
   padding: 10px;
-  /* float: right; */
   text-decoration: none;
-
   padding-right: 5rem;
   color: white;
 }
 
-.nav a:hover{
-color: blue;
+.nav a:hover {
+  color: blue;
 }
 a:link {
   text-decoration: none;
@@ -40,7 +38,7 @@ h1 {
 img {
   border-radius: 50%;
 }
-@media screen and (min-width:480px) {
+@media screen and (min-width: 480px) {
 }
 .projects {
   font-weight: bold;
@@ -50,8 +48,10 @@ img {
   margin-top: 5rem;
   padding-right: 2rem;
   width: 60%;
-  background-color: grey; text-align: center;float: right
-    ;margin-right: 5rem;
+  background-color: grey;
+  text-align: center;
+  float: right;
+  margin-right: 5rem;
 }
 .projects li {
   text-align: left;
