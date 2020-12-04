@@ -23,7 +23,9 @@ body {
   padding-right: 5rem;
   color: white;
 }
-
+#click:hover{
+  color: red;
+}
 .nav a:hover {
   color: blue;
 }
