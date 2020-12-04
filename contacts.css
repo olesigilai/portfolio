@@ -1,17 +1,16 @@
-
-h1{
-    color: white;
-    text-align: center;
-
-}
-.nav {
+body {
+    background-image: url("images/4.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .nav {
     background-color: grey;
     text-align: right;
     width: 100%;
     position: fixed;
     padding: 13px;
     font-size: 12px;
-    margin: -1.4rem;
+    margin: -1rem;
     float: center;
     color: white;
     font-weight: bold;
@@ -20,7 +19,6 @@ h1{
     display: inline;
     font-size: 20px;
     padding: 10px;
-    /* float: right; */
     text-decoration: none;
   
     padding-right: 5rem;
@@ -33,49 +31,22 @@ h1{
   a:link {
     text-decoration: none;
   }
-  
-
-body{
-    background-image: url("images/4.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    color: white;
-    overflow-x: hidden;
-
-}
-.one{
-    background-color: grey;
-    text-align: center;
-    font-size: 17px;
-    font-weight: bold;
-    
-   
-
-}
-.two{
-text-align: center;
-font-weight: bold;
-background-color: grey;
-
-}
-.hobbies{
-    text-align: left;
-}
-.table{
-    border-collapse: collapse;
-    text-align: center;
-    width: 100%;
-    /* padding: 10%; */
-    padding-left: 30%;
-    background-color: none;
-
-}
-td, th {
-    border: 1px solid grey;
-    text-align: left;
-    padding: 8px;
+  h2{
+      color: white;
+      font-size: 36px;
+      text-align: center;
+      font-weight: bold;
   }
-footer {
+.first{
+    color: white;
+    text-align: left;
+    font-size: 27px;
+    text-align: center;
+    font-weight: bold;
+       
+}
+
+  footer {
     background-color: grey;
     position: fixed;
     left: 0;
