@@ -59,6 +59,8 @@ body {
   width: 100%;
   padding-left: 30%;
   background-color: none;
+  font-size: 18px;
+  font-weight: bold;
 }
 td,th {
   border: 1px solid grey;
