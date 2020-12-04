@@ -36,6 +36,8 @@ body {
       font-size: 36px;
       text-align: center;
       font-weight: bold;
+      font-style: italic;
+     
   }
 .first{
     color: white;
@@ -45,7 +47,8 @@ body {
     font-weight: bold;
        
 }
-
+@media screen and (min-width:480px) {
+}
   footer {
     background-color: grey;
     position: fixed;
