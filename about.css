@@ -60,6 +60,13 @@ background-color: grey;
 }
 .hobbies{
     text-align: left;
+  
+}
+#skills{
+  text-align: left;
+  float: right;
+  
+  
 }
 .table{
     border-collapse: collapse;
