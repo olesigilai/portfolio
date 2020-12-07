@@ -47,6 +47,9 @@ h2 {
 }
 @media screen and (min-width: 480px) {
 }
+.icon{
+  padding-left: 48%;
+}
 footer {
   background-color: grey;
   position: fixed;
